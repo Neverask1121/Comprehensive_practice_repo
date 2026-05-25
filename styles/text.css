@@ -1,0 +1,52 @@
+    p{
+        font-family: Roboto;
+    }
+    .video-title{
+        font-family: Roboto;
+        font-weight: bold;
+        font-size: 18px;
+        width: 300px;
+        line-height: 24px;
+        margin-bottom: 5px;
+    }
+    .video-stats{
+        font-family: Roboto;
+        font-size: 14px;
+        color: gray;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .video-author{
+        font-family: Roboto;
+        color: gray;
+        font-size: 14px;
+        margin-top: 20;
+        margin-bottom: 20px;
+    }
+    .video-descrip{
+        font-family: Roboto;
+        font-size: 14;
+        width: 280;
+        line-height: 22px;
+        margin-top: 0;
+        color: gray;
+    }
+    .Shop-cult{
+        margin-bottom: 50px;
+        font-family: Roboto;
+        font-size: 14px;
+        background-color: red;
+        padding-bottom: 14px;
+        padding-top: 14px;
+        padding-left: 10px;
+        padding-right: 10px;
+        color: aliceblue;
+        text-align: center;
+    }
+    .style{
+        cursor: pointer;
+        margin-left: 10px;
+    }
+    .style:hover{
+        text-decoration: underline;
+    }
